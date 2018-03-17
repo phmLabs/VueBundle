@@ -1,0 +1,9 @@
+{
+  "name": "phmlabs/vuebundle",
+  "description": "include multiple twig templates at once",
+  "autoload": {
+    "psr-4": {
+      "phmLabs\\VueBundle\\": "src/"
+    }
+  }
+}
